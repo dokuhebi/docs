@@ -17,7 +17,7 @@ features:
 
 ## Getting Started (Quick Start)
 
-Cosign is a command line utility that can sign and verify software artifact, such as container images and blobs.
+Cosign is a command line utility that can sign and verify software artifacts, such as container images and blobs.
 Join us on our [Slack channel](https://sigstore.slack.com/). (Need an [invite](https://links.sigstore.dev/slack-invite)?)
 
 ### Installation
